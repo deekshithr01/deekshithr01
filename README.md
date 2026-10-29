@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deekshith R Gowda 👋</h1>
+<h1 align="center">Hi, I'm Deekshith R  👋</h1>
 
 <h3 align="center">
 Electronics & Communication Engineering | Embedded Systems | IoT | AI/ML
