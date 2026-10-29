@@ -1,106 +1,162 @@
 
-<h1 align="center">DEEKSHITH R GOWDA</h1>
+cd ~/Developer/deekshith-portfolio
+
+cat > README.md <<'EOF'
+<h1 align="center">Deekshith R Gowda</h1>
+
+<h3 align="center">
+Aspiring Cloud Data Engineer | Python | SQL | PySpark
+</h3>
 
 <p align="center">
-  <b>CLOUD DATA ENGINEERING | PYTHON | SQL | PySpark</b>
+Building data-driven solutions with cloud technologies,
+distributed data processing, and software engineering.
 </p>
 
 <p align="center">
-  AWS &nbsp;·&nbsp; Microsoft Azure &nbsp;·&nbsp; Google Cloud &nbsp;·&nbsp; Linux
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deekshithr01">LinkedIn</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/deekshithr01">GitHub</a>
-  &nbsp; | &nbsp;
-  <a href="mailto:deekshithrgowda1@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/deekshithr01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/deekshithr01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## 👋 About Me
 
-Final-year Electronics and Communication Engineering student at
-JAIN (Deemed-to-be University), graduating in 2027. Focused on
-cloud data engineering, SQL, Python, PySpark, Linux, and data
-processing workflows, with additional project experience in
-embedded systems, IoT, and machine learning.
+I'm a final-year Electronics and Communication Engineering
+student at JAIN (Deemed-to-be University), graduating in 2027,
+with an interest in Cloud Data Engineering and software development.
 
----
+- ☁️ Learning cloud platforms: AWS, Microsoft Azure, and GCP.
+- 🐍 Programming and data processing with Python and PySpark.
+- 🗄️ Practicing SQL, relational databases, and data transformation.
+- 🔄 Exploring ETL/ELT workflows and data engineering architecture.
+- 🐧 Building familiarity with Linux and development tools.
+- 🔌 Experienced in academic projects involving embedded systems,
+  IoT, and machine learning.
+- 🚀 Focused on building practical projects and reproducible solutions.
 
-## TECHNICAL EXPERTISE
+## 🛠️ Technical Skills
 
-**Cloud Platforms**  
-AWS · Microsoft Azure · Google Cloud Platform
+### Cloud Platforms
 
-**Data Engineering**  
-Python · SQL · PySpark · ETL/ELT · Data Transformation
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Operating Systems & Tools**  
-Linux · Git · GitHub · VS Code
+### Data Engineering
 
-**Engineering & AI**  
-C · C++ · ESP32 · TensorFlow · MATLAB · Cadence Virtuoso
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
----
+ETL/ELT fundamentals, data transformation, data pipelines,
+data engineering architecture, and Linux fundamentals.
 
-## SELECTED PROJECTS
+### Programming & Engineering
 
-**01 — Edge AI-Enabled EV Battery Management System**  
-*Ongoing*
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-Developing an intelligent battery monitoring system focused on
-voltage, current, temperature, State of Charge, State of Health,
-and abnormal-condition detection.
+Embedded C, ESP32, Arduino, TensorFlow, Scikit-learn,
+MATLAB, Cadence Virtuoso, Proteus, and CST Studio Suite.
 
-**02 — Smart Cart Monitoring System**
+## 🚀 Featured Projects
 
-Developed an ESP32-based monitoring system integrating GPS, GSM,
-IMU, and ultrasonic sensors for accident detection, location
-tracking, and emergency alerts.
+### 1. Cloud Data Engineering Practice
 
-**03 — Breast Cancer Detection Using MobileNetV2**
+Developing hands-on exercises in SQL, Python, PySpark,
+cloud fundamentals, Linux, and data transformation.
 
-Developed a mammography image classification application using
-transfer learning, a graphical interface, confidence scores,
-and heatmap visualization. Reported accuracy: 82.32%.
+Planned portfolio work:
+- SQL queries and database exercises
+- PySpark DataFrame transformations
+- ETL pipeline development
+- Cloud-based data processing exercises
 
-**04 — Antenna Design & Electromagnetic Simulation**
+### 2. Edge AI-Enabled EV Battery Management System
 
-Completed an antenna design and electromagnetic simulation
-mini-project using engineering simulation tools.
+**Status: Ongoing**
 
----
+- Developing an intelligent battery monitoring system.
+- Exploring voltage, current, temperature, SoC, and SoH.
+- Investigating fault detection and battery-health analysis.
 
-## PROFESSIONAL EXPERIENCE
+### 3. Smart Cart Monitoring System
 
-**Production & Maintenance Intern**  
-Macurex Sensors Pvt. Ltd. | June–July 2025
+- Developed an ESP32-based monitoring system using GPS,
+  GSM, IMU, and ultrasonic sensors.
+- Implemented accident detection, location tracking,
+  and emergency alerts.
+
+### 4. Breast Cancer Detection Using MobileNetV2
+
+- Developed a mammography image classification system
+  using transfer learning and the CBIS-DDSM dataset.
+- Implemented a GUI with confidence scores and heatmaps.
+- Reported model classification accuracy of 82.32%.
+
+### 5. Antenna Design & Electromagnetic Simulation
+
+Completed an antenna design and electromagnetic
+simulation mini-project using engineering simulation tools.
+
+## 💼 Experience
+
+**Production & Maintenance Intern — Macurex Sensors Pvt. Ltd.**
+
+*June 2025 – July 2025*
 
 - Supported testing and quality inspection of sensor-based equipment.
 - Assisted with troubleshooting and equipment maintenance.
-- Gained experience with electromechanical systems and industrial workflows.
+- Gained exposure to industrial production and electromechanical systems.
 
----
+## 🎓 Education
 
-## EDUCATION
+**B.Tech — Electronics & Communication Engineering**
 
-**B.Tech — Electronics & Communication Engineering**  
-JAIN (Deemed-to-be University) | 2023–2027  
-CGPA: 8.959 through Semester VI
+JAIN (Deemed-to-be University) | 2023–2027
 
----
+CGPA: 8.959 up to Semester VI.
 
-## CERTIFICATIONS
+## 📜 Certifications
 
-- Python Data Structures and Algorithms — LinkedIn Learning
 - Microcontroller Embedded C Programming — Udemy
 - Embedded Systems Programming on ARM Cortex-M3/M4 — Udemy
 - VLSI Design and Verilog Programming — Udemy
+- Python Data Structures and Algorithms — LinkedIn Learning
+- Java Masterclass — Udemy
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshithr01&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithr01&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/deekshithr01
+- LinkedIn: https://www.linkedin.com/in/deekshithr01
+- Email: deekshithrgowda1@gmail.com
 
 ---
 
 <p align="center">
-  <i>Engineering solutions through data, software, and intelligent systems.</i>
+  <i>Learn. Build. Automate. Engineer.</i>
 </p>
+EOF
+
+git add README.md
+git commit -m "Refocus profile on cloud data engineering"
+git push
