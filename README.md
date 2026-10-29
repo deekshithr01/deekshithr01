@@ -1,3 +1,4 @@
+
 <h1 align="center">Deekshith R Gowda</h1>
 
 <h3 align="center">
@@ -5,8 +6,8 @@ Aspiring Cloud Data Engineer | Python | SQL | PySpark
 </h3>
 
 <p align="center">
-Building data-driven solutions with cloud technologies,
-distributed data processing, and software engineering.
+Building reliable data solutions using cloud platforms,
+distributed processing, and software engineering.
 </p>
 
 <p align="center">
@@ -22,18 +23,16 @@ distributed data processing, and software engineering.
 
 ## 👋 About Me
 
-I'm a final-year Electronics and Communication Engineering
-student at JAIN (Deemed-to-be University), graduating in 2027,
-with an interest in Cloud Data Engineering and software development.
+I'm a final-year Electronics and Communication Engineering student
+at JAIN (Deemed-to-be University), graduating in 2027.
 
 - ☁️ Learning cloud platforms: AWS, Microsoft Azure, and GCP.
-- 🐍 Programming and data processing with Python and PySpark.
+- 🐍 Working with Python and PySpark for data processing.
 - 🗄️ Practicing SQL, relational databases, and data transformation.
 - 🔄 Exploring ETL/ELT workflows and data engineering architecture.
-- 🐧 Building familiarity with Linux and development tools.
-- 🔌 Experienced in academic projects involving embedded systems,
-  IoT, and machine learning.
-- 🚀 Focused on building practical projects and reproducible solutions.
+- 🐧 Learning Linux commands, shell operations, and system fundamentals.
+- 🔌 Experienced in academic projects involving embedded systems, IoT, and AI/ML.
+- 🚀 Focused on developing practical, reproducible engineering projects.
 
 ## 🛠️ Technical Skills
 
@@ -49,9 +48,10 @@ with an interest in Cloud Data Engineering and software development.
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ETL/ELT fundamentals, data transformation, data pipelines,
-data engineering architecture, and Linux fundamentals.
+and data engineering architecture.
 
 ### Programming & Engineering
 
@@ -62,47 +62,46 @@ data engineering architecture, and Linux fundamentals.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 Embedded C, ESP32, Arduino, TensorFlow, Scikit-learn,
-MATLAB, Cadence Virtuoso, Proteus, and CST Studio Suite.
+MATLAB, Cadence Virtuoso, Proteus, LTspice, and CST Studio Suite.
 
 ## 🚀 Featured Projects
 
 ### 1. Cloud Data Engineering Practice
 
-Developing hands-on exercises in SQL, Python, PySpark,
-cloud fundamentals, Linux, and data transformation.
+Developing practical exercises in SQL, Python, PySpark,
+Linux, cloud fundamentals, and data transformation.
 
-Planned portfolio work:
-- SQL queries and database exercises
-- PySpark DataFrame transformations
-- ETL pipeline development
-- Cloud-based data processing exercises
+- SQL queries and relational database exercises.
+- PySpark DataFrame transformations.
+- ETL pipeline development.
+- Cloud data processing exercises.
 
-### 2. Edge AI-Enabled EV Battery Management System
+### 2. Edge AI-Enabled Smart Battery Management System for EVs
 
 **Status: Ongoing**
 
-- Developing an intelligent battery monitoring system.
-- Exploring voltage, current, temperature, SoC, and SoH.
-- Investigating fault detection and battery-health analysis.
+- Developing a battery monitoring system for voltage, current, and temperature.
+- Exploring State of Charge (SoC) and State of Health (SoH).
+- Investigating fault detection and predictive battery-health analysis.
 
 ### 3. Smart Cart Monitoring System
 
-- Developed an ESP32-based monitoring system using GPS,
-  GSM, IMU, and ultrasonic sensors.
-- Implemented accident detection, location tracking,
-  and emergency alerts.
+- Developed an ESP32-based system integrating GPS, GSM, IMU,
+  and ultrasonic sensors.
+- Implemented accident detection, location tracking, and emergency alerts.
+- Tested sensor integration and real-time data acquisition.
 
 ### 4. Breast Cancer Detection Using MobileNetV2
 
-- Developed a mammography image classification system
-  using transfer learning and the CBIS-DDSM dataset.
-- Implemented a GUI with confidence scores and heatmaps.
-- Reported model classification accuracy of 82.32%.
+- Developed a mammography image classification system using
+  transfer learning and the CBIS-DDSM dataset.
+- Implemented a GUI with confidence scores and heatmap visualization.
+- Reported classification accuracy: 82.32%.
 
 ### 5. Antenna Design & Electromagnetic Simulation
 
-Completed an antenna design and electromagnetic
-simulation mini-project using engineering simulation tools.
+Completed an antenna design and electromagnetic simulation
+mini-project using engineering simulation tools.
 
 ## 💼 Experience
 
@@ -112,7 +111,7 @@ simulation mini-project using engineering simulation tools.
 
 - Supported testing and quality inspection of sensor-based equipment.
 - Assisted with troubleshooting and equipment maintenance.
-- Gained exposure to industrial production and electromechanical systems.
+- Contributed to electromechanical system assembly and maintenance.
 
 ## 🎓 Education
 
@@ -120,7 +119,7 @@ simulation mini-project using engineering simulation tools.
 
 JAIN (Deemed-to-be University) | 2023–2027
 
-CGPA: 8.959 up to Semester VI.
+CGPA: 8.959 through Semester VI.
 
 ## 📜 Certifications
 
@@ -133,17 +132,17 @@ CGPA: 8.959 up to Semester VI.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshithr01&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deekshithr01&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithr01&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithr01&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/deekshithr01
-- LinkedIn: https://www.linkedin.com/in/deekshithr01
+- LinkedIn: [Deekshith R Gowda](https://www.linkedin.com/in/deekshithr01)
+- GitHub: [deekshithr01](https://github.com/deekshithr01)
 - Email: deekshithrgowda1@gmail.com
 
 ---
