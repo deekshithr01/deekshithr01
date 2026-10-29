@@ -1,5 +1,5 @@
 
-<h1 align="center">Deekshith R Gowda</h1>
+<h1 align="center">Deekshith R </h1>
 
 <h3 align="center">
 Aspiring Cloud Data Engineer | Python | SQL | PySpark
