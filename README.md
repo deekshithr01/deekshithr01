@@ -21,20 +21,20 @@ distributed processing, and software engineering.
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a final-year Electronics and Communication Engineering student
 at JAIN (Deemed-to-be University), graduating in 2027.
 
-- ☁️ Learning cloud platforms: AWS, Microsoft Azure, and GCP.
-- 🐍 Working with Python and PySpark for data processing.
-- 🗄️ Practicing SQL, relational databases, and data transformation.
-- 🔄 Exploring ETL/ELT workflows and data engineering architecture.
-- 🐧 Learning Linux commands, shell operations, and system fundamentals.
-- 🔌 Experienced in academic projects involving embedded systems, IoT, and AI/ML.
-- 🚀 Focused on developing practical, reproducible engineering projects.
+- Learning cloud platforms: AWS, Microsoft Azure, and GCP.
+- Working with Python and PySpark for data processing.
+- Practicing SQL, relational databases, and data transformation.
+- Exploring ETL/ELT workflows and data engineering architecture.
+- Learning Linux commands, shell operations, and system fundamentals.
+- Experienced in academic projects involving embedded systems, IoT, and AI/ML.
+- Focused on developing practical, reproducible engineering projects.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Cloud Platforms
 
@@ -64,7 +64,7 @@ and data engineering architecture.
 Embedded C, ESP32, Arduino, TensorFlow, Scikit-learn,
 MATLAB, Cadence Virtuoso, Proteus, LTspice, and CST Studio Suite.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Cloud Data Engineering Practice
 
@@ -103,7 +103,7 @@ Linux, cloud fundamentals, and data transformation.
 Completed an antenna design and electromagnetic simulation
 mini-project using engineering simulation tools.
 
-## 💼 Experience
+## Experience
 
 **Production & Maintenance Intern — Macurex Sensors Pvt. Ltd.**
 
@@ -113,7 +113,7 @@ mini-project using engineering simulation tools.
 - Assisted with troubleshooting and equipment maintenance.
 - Contributed to electromechanical system assembly and maintenance.
 
-## 🎓 Education
+## Education
 
 **B.Tech — Electronics & Communication Engineering**
 
@@ -121,7 +121,7 @@ JAIN (Deemed-to-be University) | 2023–2027
 
 CGPA: 8.959 through Semester VI.
 
-## 📜 Certifications
+## Certifications
 
 - Microcontroller Embedded C Programming — Udemy
 - Embedded Systems Programming on ARM Cortex-M3/M4 — Udemy
@@ -129,7 +129,7 @@ CGPA: 8.959 through Semester VI.
 - Python Data Structures and Algorithms — LinkedIn Learning
 - Java Masterclass — Udemy
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deekshithr01&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics"/>
@@ -139,7 +139,7 @@ CGPA: 8.959 through Semester VI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshithr01&layout=compact&theme=default&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [Deekshith R Gowda](https://www.linkedin.com/in/deekshithr01)
 - GitHub: [deekshithr01](https://github.com/deekshithr01)
