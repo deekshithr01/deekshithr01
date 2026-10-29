@@ -1,7 +1,4 @@
 
-cd ~/Developer/deekshith-portfolio
-
-cat > README.md <<'EOF'
 <h1 align="center">Deekshith R Gowda</h1>
 
 <h3 align="center">
@@ -155,8 +152,3 @@ CGPA: 8.959 up to Semester VI.
 <p align="center">
   <i>Learn. Build. Automate. Engineer.</i>
 </p>
-EOF
-
-git add README.md
-git commit -m "Refocus profile on cloud data engineering"
-git push
